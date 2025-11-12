@@ -173,7 +173,7 @@ const App: React.FC = () => {
         </div>
       </main>
       <footer className="mt-8 text-center text-gray-500 text-sm">
-        <p>Phát triển bởi AI - Lấy cảm hứng từ lịch sử Việt Nam</p>
+        {/* <p>Lấy cảm hứng từ lịch sử Việt Nam</p> */}
       </footer>
     </div>
   );
