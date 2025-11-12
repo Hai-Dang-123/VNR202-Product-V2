@@ -168,7 +168,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 21,
     hint: 'Sự kiện ngày 30/4/1975, giải phóng hoàn toàn miền Nam, kết thúc 30 năm kháng chiến, đưa đất nước vào giai đoạn thống nhất.',
-    imageUrl: asset('./assets/chuong-3/1.jpg'),
+    imageUrl: asset('./assets/chuong-3/1.png'),
     answer: 'Đại thắng mùa Xuân',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - I. Đảng lãnh đạo cả nước xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc (1975 - 1986)',
     keywordInfo: 'Tên gọi cuộc Tổng tiến công và nổi dậy mùa Xuân 1975, đỉnh cao là Chiến dịch Hồ Chí Minh (30/4/1975), giải phóng hoàn toàn miền Nam, thống nhất đất nước.'
@@ -176,7 +176,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 22,
     hint: 'Quá trình diễn ra từ 1975-1980 nhằm cải tạo công thương nghiệp tư bản, tư liệu sản xuất nông nghiệp, xây dựng kinh tế kế hoạch hóa.',
-    imageUrl: asset('./assets/chuong-3/2.jpg'),
+    imageUrl: asset('./assets/chuong-3/2.png'),
     answer: 'Cải tạo xã hội chủ nghĩa',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - I. Đảng lãnh đạo cả nước xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc (1975 - 1986)',
     keywordInfo: 'Chủ trương lớn sau 1975 nhằm đưa miền Nam đi lên CNXH cùng cả nước. Bao gồm cải tạo công thương nghiệp tư bản tư doanh, hợp tác xã hóa nông nghiệp...'
@@ -184,7 +184,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 23,
     hint: 'Văn bản pháp lý được thông qua năm 1980, đặt nền móng cho việc quản lý đất nước trong giai đoạn quá độ lên CNXH.',
-    imageUrl: asset('./assets/chuong-3/3.jpg'),
+    imageUrl: asset('./assets/chuong-3/3.png'),
     answer: 'Hiến pháp 1980',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - I. Đảng lãnh đạo cả nước xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc (1975 - 1986)',
     keywordInfo: 'Bản Hiến pháp của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thống nhất. Thể chế hóa đường lối của Đảng trong giai đoạn quá độ lên CNXH trên phạm vi cả nước.'
@@ -192,7 +192,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 24,
     hint: 'Tên gọi của mô hình kinh tế giai đoạn 1975-1986, đặc trưng bởi sự quản lý tập trung của nhà nước, dẫn đến lạm phát và thiếu hụt hàng hóa.',
-    imageUrl: asset('./assets/chuong-3/4.jpg'),
+    imageUrl: asset('./assets/chuong-3/4.png'),
     answer: 'Bao cấp',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - I. Đảng lãnh đạo cả nước xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc (1975 - 1986)',
     keywordInfo: 'Tên gọi của mô hình kinh tế kế hoạch hóa tập trung, nhà nước quản lý toàn diện. Mô hình này bộc lộ nhiều yếu kém, dẫn đến khủng hoảng kinh tế - xã hội trước Đổi mới.'
@@ -200,7 +200,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 25,
     hint: 'Chủ trương được khởi động từ tháng 8/1986, chuyển đổi cơ chế quản lý từ tập trung bao cấp sang kinh tế thị trường xã hội chủ nghĩa.',
-    imageUrl: asset('./assets/chuong-3/5.jpg'),
+    imageUrl: asset('./assets/chuong-3/5.png'),
     answer: 'Đổi mới kinh tế',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - II. Lãnh đạo công cuộc đổi mới, đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế (từ năm 1986 đến nay)',
     keywordInfo: 'Bắt đầu từ Đại hội VI (12/1986), là bước ngoặt quan trọng. Chuyển từ kinh tế kế hoạch hóa tập trung, bao cấp sang kinh tế thị trường định hướng xã hội chủ nghĩa.'
@@ -208,7 +208,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 26,
     hint: 'Quá trình bắt đầu từ 1986, thực hiện phát triển kinh tế đa thành phần, mở cửa hội nhập quốc tế, nâng cao đời sống nhân dân.',
-    imageUrl: asset('./assets/chuong-3/6.jpg'),
+    imageUrl: asset('./assets/chuong-3/6.png'),
     answer: 'Đổi mới toàn diện',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018) - II. Lãnh đạo công cuộc đổi mới, đẩy mạnh công nghiệp hóa, hiện đại hóa và hội nhập quốc tế (từ năm 1986 đến nay)',
     keywordInfo: 'Chủ trương của Đảng từ 1986, không chỉ đổi mới về kinh tế mà còn đổi mới về chính trị, văn hóa, xã hội, đối ngoại.'
@@ -216,7 +216,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 27,
     hint: 'Các hội nghị toàn quốc định kỳ của Đảng, nơi đánh giá tình hình, sửa đổi chiến lược phát triển đất nước trong từng giai đoạn.',
-    imageUrl: asset('./assets/chuong-3/7.jpg'),
+    imageUrl: asset('./assets/chuong-3/7.png'),
     answer: 'Đại hội Đảng',
     chapter: 'Chương 3: Đảng lãnh đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975 - 2018)',
     keywordInfo: 'Sự kiện chính trị quan trọng nhất, cơ quan lãnh đạo cao nhất của Đảng, được tổ chức định kỳ (thường là 5 năm/lần) để vạch ra đường lối, chiến lược.'
