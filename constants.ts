@@ -16,7 +16,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 2,
     hint: 'Văn kiện do Nguyễn Ái Quốc soạn thảo, được thông qua tại Hội nghị thành lập Đảng, vạch ra đường lối chiến lược cơ bản cho cách mạng Việt Nam.',
-    imageUrl: asset('./assets/chuong-1/2.jpg'),
+    imageUrl: asset('./assets/chuong-1/2.jpeg'),
     answer: 'Cương lĩnh chính trị đầu tiên',
     chapter: 'Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945) - I. Đảng Cộng sản Việt Nam ra đời và Cương lĩnh chính trị đầu tiên của Đảng (tháng 2-1930)',
     keywordInfo: 'Do Nguyễn Ái Quốc soạn thảo, vạch ra đường lối chiến lược cơ bản: làm cách mạng tư sản dân quyền và thổ địa cách mạng để đi tới xã hội cộng sản. Đây là cương lĩnh giải phóng dân tộc đúng đắn và sáng tạo.'
@@ -40,7 +40,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 5,
     hint: 'Tên gọi của Mặt trận được thành lập trong thời kỳ 1936-1939, nhằm tập hợp lực lượng đòi tự do, dân chủ, cơm áo, hòa bình.',
-    imageUrl: asset('./assets/chuong-1/5.jpg'),
+    imageUrl: asset('./assets/chuong-1/5.png'),
     answer: 'Mặt trận Dân chủ Đông Dương',
     chapter: 'Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945) - II. Đảng lãnh đạo đấu tranh giành chính quyền (1930 - 1945)',
     keywordInfo: 'Hình thức mặt trận trong giai đoạn 1936-1939. Đảng tạm gác khẩu hiệu cách mạng ruộng đất và độc lập dân tộc, đòi các quyền tự do, dân chủ, dân sinh.'
@@ -56,7 +56,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 7,
     hint: 'Cuộc khởi nghĩa vũ trang nổ ra ở Lạng Sơn vào tháng 9-1940, là một trong những tiếng súng báo hiệu cho cuộc khởi nghĩa toàn quốc.',
-    imageUrl: asset('./assets/chuong-1/7.jpg'),
+    imageUrl: asset('./assets/chuong-1/7.png'),
     answer: 'Khởi nghĩa Bắc Sơn',
     chapter: 'Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945) - II. Đảng lãnh đạo đấu tranh giành chính quyền (1930 - 1945)',
     keywordInfo: 'Nổ ra tháng 9/1940. Tuy thất bại, nhưng đã dẫn đến sự ra đời của Đội Cứu quốc quân Bắc Sơn, một trong những lực lượng vũ trang đầu tiên của Đảng.'
@@ -64,7 +64,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 8,
     hint: 'Cuộc khởi nghĩa nổ ra vào tháng 11-1940 ở miền Nam Việt Nam, thể hiện ý chí quật cường của nhân dân Nam Bộ.',
-    imageUrl: asset('./assets/chuong-1/8.jpg'),
+    imageUrl: asset('./assets/chuong-1/8.png'),
     answer: 'Khởi nghĩa Nam Kỳ',
     chapter: 'Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945) - II. Đảng lãnh đạo đấu tranh giành chính quyền (1930 - 1945)',
     keywordInfo: 'Nổ ra tháng 11/1940. Thể hiện tinh thần yêu nước quật cường của nhân dân Nam Bộ. Trong cuộc khởi nghĩa này, lá cờ đỏ sao vàng lần đầu tiên xuất hiện.'
@@ -72,7 +72,7 @@ export const QUIZ_DATA: QuizItem[] = [
   {
     id: 9,
     hint: 'Phong trào diễn ra từ tháng 3-1945, ngay sau khi Nhật đảo chính Pháp, làm tiền đề trực tiếp cho Tổng khởi nghĩa.',
-    imageUrl: asset('./assets/chuong-1/9.jpg'),
+    imageUrl: asset('./assets/chuong-1/9.png'),
     answer: 'Cao trào kháng Nhật cứu nước',
     chapter: 'Chương 1: Đảng Cộng sản Việt Nam ra đời và lãnh đạo đấu tranh giành chính quyền (1930 - 1945) - II. Đảng lãnh đạo đấu tranh giành chính quyền (1930 - 1945)',
     keywordInfo: 'Diễn ra từ tháng 3/1945 sau khi Nhật đảo chính Pháp. Đây là cuộc tập dượt cuối cùng, tạo tiền đề trực tiếp cho Tổng khởi nghĩa tháng Tám.'
